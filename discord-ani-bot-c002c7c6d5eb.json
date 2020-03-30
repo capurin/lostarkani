@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "discord-ani-bot",
+  "private_key_id": "c002c7c6d5eb9ecda99aa9b4566c3f4b1c1553fc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCo+O4nSm0ChfP\nsZIhTqK22yLJnuXzw3vb9qQDAHniDQdCCJ9P4M41s81wpZNe9dlvFg5JIB87kgYk\nWXLRdm7R0WmK33X7YHacMbDFFA5bL4L2Jxs2fF0F/Xa+J/+9vMtOXXI5LhIincDV\nMAs5MkR6qEe5o7WAUhaFMvpnwOns+LV8FOrJF8myo7UMa8o3AXYgOitw8/HbQU9n\noBaYI27XUxn6lNUD1Yh1uiqIvXVHemkcDR0Dn1oQ9tg6bVbNFIVNO0XPs6XcQhL2\nA9a8h45MpAxwDAXh31pNWGu6+rRGcuWffyEruG+qod+mtza0EPLNEabZlFDLVnpO\nINskE7OtAgMBAAECggEALkpxFc6XBQEjgZtfQDml/Cwo3V/Dm9JhqkJB5o7d7fOg\nRsWrMgGquV3uXbybTInW8RMDScPweaf0ev+lDYkHuTH/Um5r7mGWQ/aTboOjGG+3\ny1goojA4pXyPGZGEwrjcd2JFELFS0dXH70vyV2OLospT6KQ1PfQH9BzYLgXU/K0M\n5uVNviGNtj+iOB8QJ3Ye2IfIHLr5aiN3O59HyIFuiI1SZtm8GHMpJvy3Dxs7w/TT\njqQC0e6XH1QV5sYRiVKikimAtoAnggSrK/oDrzEcZoQV3fu4KsrtyxBQaYIknB8S\n0c3WvdI5wHG+dor63ALsrlmJGC4lGAk6TbMPUauBAQKBgQD856CVuab6l7QEQW+l\nJbbJ2jPCuOW6ITurTqYsG6TpuYYDBY/8QNYvJSHYEdcB3QH8hVGIk7/JeZnMkRIy\nWlD8itkC/eUoMvzEtHJhtdch3U+vTT69h/QNmbMhKLnGHpb907OQE5iXvl/aLiFV\nJVk6VEYytfuLcpbPr/5WyAUjgQKBgQDFBbbVKf6BZ4Bh6x1iJlXLpEylXbpNfLpW\nQJmc1b3DAyWHKo96dSQpo+9Yrx3JeALIn7UkX7A+uY5IR0LpQ7aNa0JPK7MtRNDW\nLsJVbiZ2+BaPec8gvlICNWv+s42nv3QvluXHjAQX1f6d6xK7uU9S0Plit6Sbwcck\naiEFqE92LQKBgQDpeZRgZRHoCiDgROCi35xN4KkkPLmoCYIidesmkSa/tswnAf2Y\n7OpOf8Msy9toFvX8f79zjKLjhuUbW1onLgXR/wS0pFvnrpp3pfZqigrfcoZb2b3w\nDxCZdalPFV/brOXL0qLUgaK/g7rNmwSerGohVSexLRvZ8qGTfnAZAXLtAQKBgEao\n1fl9Jhmi1RhJCjC5Luvp8NMd2kMQCIQGhxEIVxYperwPN4XjnSSR9rUHmNc4g0cQ\ngBabesoEIlMpu4WNE1uErDNYqNoDZCJsgqXA62qfbvfl57MGjsLcBe9C1frjXvfy\nVlZKkO07giWAuSc6PoilCcutsQtrY9Bbf5xX0KfBAoGAaNIoR1hCDnkDVJ8cHjLR\nCSgjZWm7+b5LSTkhiqVWN0N6+sP3jk/mnDikJQMwFCLEMlv4mIU/RhhyZO1F+xNz\ngBsNh8pqkrqKwiJfd3ig8fZLFueSvjXY5rtknvAnVOrHxlgqf96ncHN7JFhwWde0\nj9lgHkN/5BAfR56I3IaMzF4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lostark-ani@discord-ani-bot.iam.gserviceaccount.com",
+  "client_id": "113844680330028790961",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lostark-ani%40discord-ani-bot.iam.gserviceaccount.com"
+}
