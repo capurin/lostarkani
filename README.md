@@ -1,6 +1,6 @@
 ﻿# lostarkani
 # lostark_ani
-# 아니이걸 길드 Discord bot (AKA)Ani-bot
+# 아니이걸 길드 Discord bot (AKA.Ani-bot)
 내용 : 디스코드 채팅방에서 '%'로 시작하는 명령어를 읽고 구현 된 기능들을 사용
 
 # 주요 기능 소개
