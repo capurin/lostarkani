@@ -23,3 +23,36 @@
 "%검색 {캐릭터명}" : 캐릭터명의 스펙 검색 할 수 있는 사이트 링크 제공
 "%뉴비" : 신규유저에게 성장가이드 사이트 링크 제공
 "%신호탄" : 레이드시 한명은 반드시 사용해야하는 신호탄을 누가 사용할지 랜덤하게 정함
+
+### 프로젝트 구조
+    .
+    ├── ani_bot                 # Discord bot
+        ├─ api              
+            ├─ Auth.js          (GoogleAPI Auth인증)
+            └─ SimSim.js        (SimSimAPI 연동)
+        ├─ ctrl                 # 
+            ├─ commands.js      (FCM send spec맞추기)
+            ├─ dataCrawler.js   (Lostark 공식 홈페이지 크롤링)
+            ├─ postgresql.js    (길드원 스펙정보 DB저장)
+            └─ util.js          (중복 함수)
+        ├─ functions            # 
+            ├─ googleSheet.js   (FCM send spec맞추기)
+            └─ SimSim.js        (전송한 Push메세지 DB에 저장)
+        └─ index.js             (전송한 Push메세지 DB에 저장)
+    ├── ani_web
+        ├─ ctrl                 (FCM send spec맞추기)
+            ├─ ctrl.js          (FCM send spec맞추기)
+            └─ postgresql.js
+        ├─ public               (FCM send spec맞추기)
+        ├─ view                 (FCM send spec맞추기)
+        └─ index.js             (전송한 Push메세지 DB에 저장)
+    ├── functions          
+    ├── node_modules            # SQL
+    ├── routes                  # Router
+        └─ fcm.js               (End-point)
+    ├── app.js                  # RestAPI Server config
+    ├── config.js               # RestAPI Server config
+    ├── credentials.json        # RestAPI Server config
+    ├── index.js                # RestAPI Server config
+    ├── package.json            # RestAPI Server config
+    └── clientid.json
