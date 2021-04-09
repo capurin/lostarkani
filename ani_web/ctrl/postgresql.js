@@ -3,11 +3,10 @@ const {
     Client
 } = require('pg')
 const pool = new Pool({
-    user: 'postgres',
-    host: 'ec2-13-125-250-112.ap-northeast-2.compute.amazonaws.com',
-    // host: 'localhost',
-    database: 'lostark_ani',
-    password: 'tlavmf123!@',
+    user: 'secret',
+    host: 'secret',
+    database: 'secret',
+    password: 'secret',
     port: 5432,
     max: 20,
     idleTimeoutMillis: 30000,
